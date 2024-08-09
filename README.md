@@ -42,5 +42,3 @@ This is not the case for the general objective function _W_: for this, all gradi
 are calculated by using the linear algebra methods built into Numpy to solve a system
 of linear equations based on the KKT matrix. Perhaps some day this branch of the code
 will be replaced with something more accurate and efficient.
-
-_Philip D Loewen, 2024-07-05_
